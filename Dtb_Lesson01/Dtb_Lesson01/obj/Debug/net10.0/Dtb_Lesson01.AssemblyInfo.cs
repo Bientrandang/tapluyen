@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dtb_Lesson01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9064f1e4649ad0973201f8821df2d98b1a23a82")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dtb_Lesson01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dtb_Lesson01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
